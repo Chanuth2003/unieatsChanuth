@@ -1,0 +1,1 @@
+ C:\\2nd\ year\ 2nd\ semester\\Mobile\ application\ development\\Project\\New\ folder\\Uni\ eats\\uni_eats\\.dart_tool\\flutter_build\\9d8398d5b711b7f9687f4b25bd3b0f59\\native_assets.yaml: 

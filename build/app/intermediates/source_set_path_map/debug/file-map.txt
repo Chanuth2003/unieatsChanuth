@@ -1,0 +1,12 @@
+com.example.uni_eats.app-debug-0 C:\2nd year 2nd semester\Mobile application development\Project\New folder\Uni eats\uni_eats\android\app\src\debug\res
+com.example.uni_eats.app-main-1 C:\2nd year 2nd semester\Mobile application development\Project\New folder\Uni eats\uni_eats\android\app\src\main\res
+com.example.uni_eats.app-pngs-2 C:\2nd year 2nd semester\Mobile application development\Project\New folder\Uni eats\uni_eats\build\app\generated\res\pngs\debug
+com.example.uni_eats.app-resValues-3 C:\2nd year 2nd semester\Mobile application development\Project\New folder\Uni eats\uni_eats\build\app\generated\res\resValues\debug
+com.example.uni_eats.app-rs-4 C:\2nd year 2nd semester\Mobile application development\Project\New folder\Uni eats\uni_eats\build\app\generated\res\rs\debug
+com.example.uni_eats.app-mergeDebugResources-5 C:\2nd year 2nd semester\Mobile application development\Project\New folder\Uni eats\uni_eats\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.uni_eats.app-mergeDebugResources-6 C:\2nd year 2nd semester\Mobile application development\Project\New folder\Uni eats\uni_eats\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.uni_eats.app-merged_res-7 C:\2nd year 2nd semester\Mobile application development\Project\New folder\Uni eats\uni_eats\build\app\intermediates\merged_res\debug
+com.example.uni_eats.app-jetified-annotation-experimental-1.1.0-8 C:\Users\Chanuth\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.uni_eats.app-jetified-window-1.0.0-beta04-9 C:\Users\Chanuth\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.uni_eats.app-jetified-window-java-1.0.0-beta04-10 C:\Users\Chanuth\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.uni_eats.app-core-1.6.0-11 C:\Users\Chanuth\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res

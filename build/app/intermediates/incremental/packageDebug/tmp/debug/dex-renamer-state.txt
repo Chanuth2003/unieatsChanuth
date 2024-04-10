@@ -1,0 +1,4 @@
+#Sat Apr 06 12:16:44 IST 2024
+base.0=C\:\\2nd year 2nd semester\\Mobile application development\\Project\\New folder\\Uni eats\\uni_eats\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
